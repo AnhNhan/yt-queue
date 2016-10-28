@@ -4,11 +4,11 @@
   "description": "Queues up YT videos for download and downloads them.",
   "main": "build/run.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "./node_modules/.bin/jasmine"
   },
   "repository": {
     "type": "git",
-    "url": "-"
+    "url": "git@github.com:AnhNhan/yt-queue.git"
   },
   "author": "Anh Nhan Nguyen <anhnhan@outlook.com>",
   "license": "ISC",

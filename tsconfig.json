@@ -1,0 +1,14 @@
+{
+    "compilerOptions": {
+        "outDir": "build",
+        "target": "es5",
+        "module": "commonjs"
+    },
+    "include": [
+        "src/spec/**/*.spec.ts"
+    ],
+    "files": [
+        "src/queue-up.ts",
+        "src/process.ts"
+    ]
+}
